@@ -1,0 +1,19 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "API desenvolvida no programa Explorer da Rocketseat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMonteiroh/api.git"
+  },
+  "author": "João Paulo Monteiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JMonteiroh/api/issues"
+  },
+  "homepage": "https://github.com/JMonteiroh/api#readme"
+}
